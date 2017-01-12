@@ -17,7 +17,7 @@ local.properties
 *.log
 
 # IntelliJ
-.idea/
+.idea/workspace.xml
 
 #mac store
 .DS_Store
