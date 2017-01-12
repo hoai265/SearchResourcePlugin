@@ -1,15 +1,15 @@
 <idea-plugin version="2">
     <id>com.lozi.android.plugin.search_resource</id>
     <name>Search Resource Plugin</name>
-    <version>1.0</version>
+    <version>1.1</version>
     <vendor email="tienhoai@lozi.vn" url="http://www.lozi.vn">LOZI</vendor>
 
     <description><![CDATA[
-      Search resources in project.
+      Search resources by value in Android Studio project.
     ]]></description>
 
     <change-notes><![CDATA[
-      First version.
+      Update the string insert to .xml and .java file type<br>
     ]]>
     </change-notes>
 
